@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="./me-pixel-portrait.svg" width="300">
+</p>
 
-<!--
-**defnamit/defnamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Namit 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Developer • Problem Solver • Builder
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 💻 I like building things with code
+- 🐍 Python
+- ⚙️ C / C++
+- 🗄️ SQL
+- 🤖 AI / ML
+- 🧠 Data Structures & Algorithms
+
+### 🛠️ Currently Building
+
+Something cool...
+
+### 📫 Connect With Me
+
+[GitHub](https://github.com/defnamit)
