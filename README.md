@@ -30,13 +30,13 @@
 
 **Something cool...**
 
-> If it doesn't exist yet, I'll probably try to build it. 
+> If it doesn't exist yet, I'll probably try to build it. 😄
 
+### 💻 
 
+```python
 while alive:
     learn()
     build()
     debug()
     repeat()
-
-###⭐ If you find something interesting here, feel free to explore my repositories.
