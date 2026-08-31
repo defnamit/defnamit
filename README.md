@@ -8,21 +8,39 @@
   Developer • Problem Solver • Builder
 </p>
 
+<p align="center">
+  "I turn good ideas into great projects, and great projects into something worth."
+</p>
 ---
 
 ### 🚀 About Me
 
-- 💻 I like building things with code
-- 🐍 Python
-- ⚙️ C / C++
-- 🗄️ SQL
-- 🤖 AI / ML
-- 🧠 Data Structures & Algorithms
+🔨 Things I've Been Playing With-
 
-### 🛠️ Currently Building
+🧠 RAG pipelines & Vector Databases
+🤖 AI/ML models
+🔎 Embeddings & semantic search
+🌐 Flask & Web Development
+📊 Data processing with Python
+🧩 Competitive programming & DSA
+🚀 Deploying projects and experimenting with different tools
 
+
+Currently Building
 Something cool...
+
+If it doesn't exist yet, I'll probably try to build it. 😄
+
+while (alive): 
+  learn() 
+  build()
+  debug()
+  repeat()
+
 
 ### 📫 Connect With Me
 
 [GitHub](https://github.com/defnamit)
+namit000777@gmail.com
+
+⭐ If you find something interesting here, feel free to explore my repositories.
