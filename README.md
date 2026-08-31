@@ -8,9 +8,9 @@
   Developer • Problem Solver • Builder
 </p>
 
-<p align="center">
+<h2 align="center">
   "I turn good ideas into great projects, and great projects into something worth."
-</p>
+</h2>
 ---
 
 ### 🚀 About Me
