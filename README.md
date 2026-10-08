@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portrait.svg" width="500">
+  <img src="./portrait.svg" width="800">
 </p>
 
 <h1 align="center">Hey, I'm Namit 👋</h1>
